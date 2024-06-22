@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Ronald Kimeli</h1>
+<h1 align="center">Ronald Kimeli</h1>
 <h3 align="center">A passionate Computer Scientist and a Full stack (Backend Heavy) web developer with over 3years of experience developing dynamic websites.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
